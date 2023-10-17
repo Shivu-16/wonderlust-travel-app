@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wonderlust-travel-app/static/css/main.f3201cd5.css",
-    "main.js": "/wonderlust-travel-app/static/js/main.e66f5942.js",
+    "main.js": "/wonderlust-travel-app/static/js/main.651dcae4.js",
     "static/js/787.2be694ad.chunk.js": "/wonderlust-travel-app/static/js/787.2be694ad.chunk.js",
     "static/media/IMG_7564.JPG": "/wonderlust-travel-app/static/media/IMG_7564.4fbaf338831b392a22b3.JPG",
     "static/media/IMG_7568.JPG": "/wonderlust-travel-app/static/media/IMG_7568.4e5f3d8277a611cef7ba.JPG",
@@ -13,11 +13,11 @@
     "index.html": "/wonderlust-travel-app/index.html",
     "static/media/vertex.glsl": "/wonderlust-travel-app/static/media/vertex.d78b86e2e4667824ec92.glsl",
     "main.f3201cd5.css.map": "/wonderlust-travel-app/static/css/main.f3201cd5.css.map",
-    "main.e66f5942.js.map": "/wonderlust-travel-app/static/js/main.e66f5942.js.map",
+    "main.651dcae4.js.map": "/wonderlust-travel-app/static/js/main.651dcae4.js.map",
     "787.2be694ad.chunk.js.map": "/wonderlust-travel-app/static/js/787.2be694ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3201cd5.css",
-    "static/js/main.e66f5942.js"
+    "static/js/main.651dcae4.js"
   ]
 }
